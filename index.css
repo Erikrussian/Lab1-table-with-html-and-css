@@ -1,0 +1,34 @@
+
+.table {
+    margin-left: 30%;
+    text-align: center;
+
+}
+table {
+    width: 100%;
+    
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    width: 50%;
+    background-color: #f2f2f2;
+    border-top: double;
+    border-color: rgb(78, 182, 49);
+    border-collapse: collapse;
+    
+}
+td, th {
+    border: 1px solid  #28c640e6 ;
+    padding: 16px;
+} 
+  
+#head{
+    background-color:  #28c640e6;
+    border-top: double;
+}
+th{
+    padding: 16px ;
+
+}
+#mid {
+    background-color: #bbeec4e6;
+}
